@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-1. Create a Virtual Machine like in the previous tutorial. Ensuring that we create a brand new Resource Group as well. Set the image and size as shown in the screenshots for the VM (Virtual Machine). Create a unique username and password, and check the box for the licensing agreement. Followed by clicking "Review + Create" for validation and creation of the VM.
+1. Create a Virtual Machine, ensuring that we create a brand new Resource Group as well. Set the image and size as shown in the screenshots for the VM (Virtual Machine). Create a unique username and password, and check the box for the licensing agreement. Followed by clicking "Review + Create" for validation and creation of the VM.
 
 ![image](https://github.com/user-attachments/assets/50bf3736-3bcb-409e-90b8-7a2f7cecedb9)
 
