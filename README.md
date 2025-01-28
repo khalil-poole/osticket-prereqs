@@ -233,8 +233,11 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 
 Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+
 ![image](https://github.com/user-attachments/assets/29bf760c-2e3d-4613-b643-3d33ed9649c1)
 
+
+This concludes the tutorial,  but if you want to learn more about the power of osTicket, check out part 2 -> [osTicket: Post-Installation Configuration](https://github.com/khalil-poole/osTicket-post-installation)
 
 
 
