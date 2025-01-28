@@ -107,7 +107,10 @@ Leave this particular screen the same
 
 
 Username: root
+
+
 Password: root
+
 
 Username and Password goes here:
 
@@ -214,6 +217,10 @@ The web browser will then open up the osTicket setup page.
 (click Continue)
 Name Helpdesk
 Default email (receives email from customers, use an email that you're not using for business)
+
+For the Admin User, make sure that the email is seperate from the Helpdesk's email.
+
+Create a username and password for the Admin User and save the information for later.
 
 MySQL Database: osTicket
 
