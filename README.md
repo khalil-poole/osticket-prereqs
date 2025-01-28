@@ -237,7 +237,14 @@ Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-conf
 ![image](https://github.com/user-attachments/assets/29bf760c-2e3d-4613-b643-3d33ed9649c1)
 
 
-This concludes the tutorial,  but if you want to learn more about the power of osTicket, check out part 2 -> [osTicket: Post-Installation Configuration](https://github.com/khalil-poole/osTicket-post-installation)
+This concludes the tutorial,  I highly suggest to keep the VM until the osTicket project is completely finished, as we'll need it for the next tutorial. However, if you need to take a break or come back at a later time, this is how you can stop the VM. 
+
+
+![image](https://github.com/user-attachments/assets/92abfa3a-0dc5-4284-8fde-ab364f9f546d)
+
+
+
+With that said, check out part 2 when you're ready -> [osTicket: Post-Installation Configuration](https://github.com/khalil-poole/osTicket-post-installation)
 
 
 
