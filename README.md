@@ -35,7 +35,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-1. Create a Virtual Machine, ensuring that we create a brand new Resource Group as well. Set the image and size as shown in the screenshots for the VM (Virtual Machine). Create a unique username and password, and check the box for the licensing agreement. Followed by clicking "Review + Create" for validation and creation of the VM.
+<h3>Step 1: Create a Virtual Machine</h3> 
+Ensuring that we create a brand new Resource Group as well. Set the image and size as shown in the screenshots for the VM (Virtual Machine). Create a unique username and password, and check the box for the licensing agreement. Followed by clicking "Review + Create" for validation and creation of the VM.
 
 ![image](https://github.com/user-attachments/assets/50bf3736-3bcb-409e-90b8-7a2f7cecedb9)
 
@@ -46,7 +47,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/7a62cb41-81e3-4c86-9779-2659aa3fd157)
 
 
-2. Open up Remote Desktop and login to the VM with its public IP Address and the created credentials (for Mac users, please install Microsoft Remote Desktop). While inside the VM, download the required dependeices for osTicket to work by going here: [https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+<h3>Step 2: Open up Remote Desktop</h3>
+
+Login to the VM with its public IP Address and the created credentials (for Mac users, please install Microsoft Remote Desktop). While inside the VM, download the required dependeices for osTicket to work by going here: [https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 
 After downloading, you want to click on the folder icon, and drag the downloaded folder unto the desktop.
 
@@ -62,7 +65,7 @@ After the unzip process, we won't need the zipped folder anymore, so we can safe
 
 ![image](https://github.com/user-attachments/assets/e8be3e29-8478-4f8e-afdc-eb3dc64b1e15)
 
-3. Enable Internet Interface Services (IIS) with Windows
+<h3>Step 3:Enable Internet Interface Services (IIS) with Windows</h3>  
 
 Start by going to the searchbar and typing up "Control Panel" and then open up Control Panel.
 
@@ -76,7 +79,7 @@ Everything that's inside the red rectangles is what will be used and must be tur
 
 ![image](https://github.com/user-attachments/assets/7953ab7f-f563-441b-8e21-a45d6b9a22df)
 
-4. Installing packages and dependinces for osTicket
+<h3>Step 4: Installing packages and dependinces for osTicket</h3> 
 
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
