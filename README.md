@@ -49,7 +49,7 @@ Ensuring that we create a brand new Resource Group as well. Set the image and si
 
 <h3>Step 2: Open up Remote Desktop</h3>
 
-Login to the VM with its public IP Address and the created credentials (for Mac users, please install Microsoft Remote Desktop). While inside the VM, download the required dependeices for osTicket to work by going <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD/">here</a>
+Login to the VM with its public IP Address and the created credentials (for Mac users, please install Microsoft Remote Desktop). While inside the VM, download the required dependeices for osTicket to work by going <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD/">here.</a>
 
 After downloading, you want to click on the folder icon, and drag the downloaded folder unto the desktop.
 
