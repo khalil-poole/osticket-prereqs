@@ -178,8 +178,10 @@ Refresh the osTicket site in your browser, observe the changes
 Rename: "ost-sampleconfig.php" that's located inside the following folder:
 
 
+C:\inetpub\wwwroot\osTicket\include
 
-Once inside the folder, tename the file to "ost-config.php"
+
+Once inside the folder, rename the file to "ost-config.php"
 
 
 
