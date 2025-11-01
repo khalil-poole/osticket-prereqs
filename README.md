@@ -150,7 +150,8 @@ Reload IIS (Open IIS, Stop and Start the server). If you still had IIS running, 
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
-![image](https://github.com/user-attachments/assets/e3987fd2-7cba-4b93-abed-b38697d3e381)
+<img width="995" height="731" alt="image" src="https://github.com/user-attachments/assets/83597d38-1eb3-491f-8576-a7ee2dddfffe" />
+
 
 Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
