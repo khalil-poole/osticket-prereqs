@@ -119,7 +119,7 @@ Username and Password goes here:
 
 ![image](https://github.com/user-attachments/assets/181ae8b2-876c-4c4b-9b57-1ab5605ddef9)
 
-Click Next, and then click "Execute" to begin the MySQL Server installation.
+Click Next, and then click "Execute" to begin the MySQL Server installation. Once complete, click "Finish" and MySQL Server is now installed on the VM.
 
 Let's go back to the desktop screen and in the searchbartype in "IIS" and then right click and "Run as Administrator".
 
