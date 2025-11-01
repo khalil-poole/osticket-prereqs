@@ -143,7 +143,7 @@ Let's go back into the IIS home screen and then stop and then restart the server
 
 Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, right click the "upload" folder and rename “upload” to “osTicket”.
+Within “c:\inetpub\wwwroot”, right click the "upload" folder and rename “upload” to “osTicket” with the exact letter casing, otherwise it won't work.
 
 Reload IIS (Open IIS, Stop and Start the server). If you still had IIS running, stop the server, then open IIS again as an administrator, followed by starting the server.
 
