@@ -94,10 +94,9 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 ![image](https://github.com/user-attachments/assets/7ddc7137-b4f9-46ce-824b-b1e5971d1877)
 
 
-From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+***10/30/2025 Update: It appears that VC_redist.x86.exe has a newer version that's preinstalled for the Virtual Machine. The VC redistributable step can be skipped for this particular installation setup.***
 
-
-***10/30/2025 Update: It appears that VC_redist.x86.exe has a newer version that's preinstalled for the Virtual Machine. Ignore the error message that pops up upon attempting to install the redistributable. ***
+~~From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.~~
 
 
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
