@@ -25,10 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Azure Virtual Machine
 - Internet Information Services (IIS)
-- PHP Manager
+- PHP Manager (Backend coding language)
 - Rewrite Module
 - VC Redist
-- MySQL
+- MySQL (Database to store data to the local server)
 - Heidi SQL
 - osTicket v1.15.8
 - Link to downloads: <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD/">Download</a>
