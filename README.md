@@ -176,7 +176,11 @@ Refresh the osTicket site in your browser, observe the changes
 
 
 Rename: ost-config.php
+
+
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 ![image](https://github.com/user-attachments/assets/0231d7a2-4c40-4477-b4e6-36116373f1f7)
