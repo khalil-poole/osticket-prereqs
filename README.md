@@ -127,7 +127,7 @@ Let's go back to the desktop screen and in the searchbartype in "IIS" and then r
 
 ![image](https://github.com/user-attachments/assets/005258b6-bd52-4e15-9f32-778757af47f1)
 
-The IIS window should open, we're going to register the PHP from within IIS. We'll go into the PHP Manager and then click where it says "Register new PHP version".
+The IIS window should open, we're going to register the PHP from within IIS. We'll go into the PHP Manager and then click where it says "Register new PHP version". This means that we are making the web aware that PHP exists on the computer that we're currently using, or in this case the VM.
 
 ![image](https://github.com/user-attachments/assets/9c1b6c57-96b2-48d5-af0d-bcd87c67c6f1)
 
