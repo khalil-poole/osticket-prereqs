@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Azure Virtual Machine
 - Internet Information Services (IIS)
-- PHP Manager (Backend coding language)
+- PHP Manager (A type of management process for PHP, which is a back end coding language)
 - Rewrite Module
 - VC Redist
 - MySQL (Database to store data to the local server)
