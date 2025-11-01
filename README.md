@@ -99,6 +99,8 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 ~~From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.~~
 
 
+Time to install MySQL, which is basically a database that will store information to the server.
+
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup ->
 Launch Configuration Wizard (after install) ->
