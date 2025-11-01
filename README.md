@@ -189,15 +189,15 @@ Once inside the folder, rename the file to "ost-config.php"
 ![image](https://github.com/user-attachments/assets/0231d7a2-4c40-4477-b4e6-36116373f1f7)
 
 
-Assign Permissions: ost-config.php
+Next is to Assign Permissions in the ost-config.php
 
 Right click on ost-config.php -> Properties 
 
 Security -> Advanced
 
-Disable inheritance -> Remove All
+Disable inheritance -> Add -> Click on "select a principal"
 
-New Permissions -> Everyone -> All
+Inside the "Enter the object name to select" area, type "Everyone" and then click "OK"
 
 ![image](https://github.com/user-attachments/assets/e0a95ea0-8b09-4f13-a2f1-e70116216022)
 
@@ -207,20 +207,31 @@ New Permissions -> Everyone -> All
 
 
 
-Ensure all boxes are checked
+
+
+After clicking "OK" ensure all boxes are checked
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/58f6040a-fd56-405e-b515-b4902d5c0d86)
 
 
 Then click  OK -> Apply -> OK -> OK
 
+
 From the “osTicket-Installation-Files” folder, install HeidiSQL.
+
 
 Open Heidi SQL
 
+
 Create a new session, root/root
 
+
 ![image](https://github.com/user-attachments/assets/e4257146-a2e7-4b82-98c8-2f197b0cef9e)
+
 
 Connect to the session
 
