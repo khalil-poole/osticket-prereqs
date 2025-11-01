@@ -249,9 +249,9 @@ On the right, click “Browse *:80”
 
 The web browser will then open up the osTicket setup page.
 
-(click Continue)
-Name Helpdesk
-Default email (receives email from customers, use an email that you're not using for business)
+Click "Continue" and then fill information for Name, then Helpdesk, and the Default email (receives email from customers, use an email that you're not using for business)
+
+
 
 For the Admin User, make sure that the email is seperate from the Helpdesk's email.
 
