@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rewrite Module
 - VC Redist
 - MySQL (Database to store data to the local server)
-- Heidi SQL
+- Heidi SQL (Makes an established connection between the local database and data configuation inside of osTicket)
 - osTicket v1.15.8 (Ticketing system used by businesses big and small to troubleshoot / fix issues that could effect daily critical operations)
 - Link to downloads: <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD/">Download</a>
 
