@@ -277,15 +277,6 @@ End Users osTicket URL:
 
 http://localhost/osTicket/ 
 
-Last Step: Clean Up
-Delete: C:\inetpub\wwwroot\osTicket\setup
-
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-
-![image](https://github.com/user-attachments/assets/29bf760c-2e3d-4613-b643-3d33ed9649c1)
-
-
 This concludes the tutorial,  I highly suggest to keep the VM until the osTicket project is completely finished, as we'll need it for the next tutorial. However, if you need to take a break or come back at a later time, this is how you can stop the VM. 
 
 
