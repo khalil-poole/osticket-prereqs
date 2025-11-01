@@ -267,7 +267,11 @@ Click “Install Now!”
 
 Congratulations, hopefully it is installed with no errors!
 
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+Browse to your help desk login page: 
+
+
+http://localhost/osTicket/scp/login.php
+
 
 End Users osTicket URL:
 
