@@ -203,7 +203,8 @@ New Permissions -> Everyone -> All
 
 ![image](https://github.com/user-attachments/assets/57daf35d-1b32-4aaa-9340-04c1e3aedef0)
 
-![image](https://github.com/user-attachments/assets/b01bcd96-b74c-4b50-9331-849b0f22fc9d)
+<img width="767" height="580" alt="image" src="https://github.com/user-attachments/assets/a03166f8-82d5-4a06-9b80-f87a18ba7037" />
+
 
 
 Ensure all boxes are checked
