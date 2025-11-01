@@ -175,13 +175,14 @@ Refresh the osTicket site in your browser, observe the changes
 ![image](https://github.com/user-attachments/assets/edf5fd23-5606-4a14-8213-56cbc007f9eb)
 
 
-Rename: ost-config.php
+Rename: "ost-sampleconfig.php" that's located inside the following folder:
 
 
-From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+Once inside the folder, tename the file to "ost-config.php"
 
 
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 
 ![image](https://github.com/user-attachments/assets/0231d7a2-4c40-4477-b4e6-36116373f1f7)
 
